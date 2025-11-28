@@ -4,8 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
+# 📫 Contact
 
-- **Email:** yourmail@example.com  
-- **GitHub:** [kirancoder](https://github.com/kirancoder)  
-- **LinkedIn:** your profile  
+Feel free to reach out!
+
+- **Email:** kiranaralikatti@gmail.com  
+- **GitHub:** https://github.com/kirancoder  
+- **LinkedIn:** *(Add your profile link here)*  
+- **Location:** India  
+
+Always open for collaboration on aerospace, optimization, and ML projects.
