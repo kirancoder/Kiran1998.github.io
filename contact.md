@@ -10,7 +10,7 @@ Feel free to reach out!
 
 - **Email:** kiranaralikatti@gmail.com  
 - **GitHub:** https://github.com/kirancoder  
-- **LinkedIn:** *(Add your profile link here)*  
+- **LinkedIn:** *https://www.linkedin.com/in/kiran-ara/*  
 - **Location:** India  
 
 Always open for collaboration on aerospace, optimization, and ML projects.
