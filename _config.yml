@@ -4,8 +4,11 @@ theme: minima
 author: Kiran
 markdown: kramdown
 
-# Add navigation links to show in top menu
-header_pages:
-  - index.md
-  - projects.md
-  - nonlinear-constraints.md
+# Navigation menu
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Technical Notes"
+    link: "/notes/nonlinear-constraints"
