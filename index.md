@@ -3,7 +3,19 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Kiran 👋  
-Engineer | Control Systems | Trajectory Optimization | ML
+# Welcome to My Portfolio
 
-Welcome to my personal website!
+I’m **Kiran Aralikatti**, an aspiring researcher and engineer passionate about:
+
+- 🚀 Trajectory Optimization  
+- 🛰️ Launch Vehicle Dynamics  
+- 🤖 Optimal Control & Reinforcement Learning  
+- 🔥 Re-entry, Guidance, Navigation & Control (GNC)  
+- 📌 Machine Learning for Aerospace Systems  
+
+This site highlights my **projects, research interests, publications, and journey** in aerospace engineering and machine learning.
+
+👉 Explore my work:  
+- [Projects](/projects/)  
+- [About Me](/about/)  
+- [Contact](/contact/)
