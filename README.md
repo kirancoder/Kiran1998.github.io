@@ -28,9 +28,13 @@ Recently, I’ve applied **Physics-Informed Neural Networks (PINNs)** to solve *
 ---
 
 ## 💼 Experience
+**🛰️ GNC System Engineer - Ethereal Exploration Guild**
+*Nov 2025 - Present*
+- Landing trajectory design and control using **MPC controller** 
 
-**🛰️ Associate Consultant – Capgemini Tech Services**  
-*July 2025 – Present*  
+
+**Associate Consultant – Capgemini Tech Services**  
+*July 2025 – Oct 2025*  
 - Developing an **oscillation detection tool** using the **Hilbert transform** and **Deep Learning**.  
 
 **🛩️ Lead Engineer – HCL Technologies**  
